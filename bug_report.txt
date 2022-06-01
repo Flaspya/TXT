@@ -1,1 +1,14 @@
-
+BUG_REPORT
+1. Project: Test
+2. Issue_type: Bug
+3. Summary: Add a short, bug name that answers questions: What? Where? When?
+4. Description:
+   a) Steps:
+      1) Go to site ...
+      2) Click on the button
+      3) In the 'E-mail' field, enter 'testgmail.com'
+   b) Result: No errors, email entered correctly
+   c) Expected_Result: I get an error that the @ sign is missing
+   d) Environment: Windows 11 x64, Google Chrome v.5.5.5.5
+   e) Attachments: Add screenshot or(and) video
+5. Reporter: Vladimir Litvyakov
